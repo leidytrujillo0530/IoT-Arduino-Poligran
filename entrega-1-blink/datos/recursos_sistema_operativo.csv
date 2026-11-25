@@ -1,0 +1,4 @@
+escenario,hora,cpu_instantaneo_pct,cpu_promedio_60s_pct,ram_usada_gb,ram_usada_pct,gpu_pct,wifi_envio_kbps,wifi_recepcion_kbps,procesos
+navegador_cerrado,16:42,29,11.6,4.7,80,1,0,0,250
+tinkercad_sin_simular,16:44,12,17.3,5.1,86,0,24,16,278
+simulacion_en_ejecucion,16:46,22,24.5,5.4,92,12,32,64,279

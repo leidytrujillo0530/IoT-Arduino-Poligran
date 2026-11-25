@@ -1,0 +1,4 @@
+situacion,intervalos,duracion_promedio_ms,duracion_min_ms,duracion_max_ms,sentido_leds
+sin_presionar,44,251.7,250,252,12->8
+pulsador_1_presionado,23,81.3,80,82,12->8
+pulsador_2_presionado,5,251.8,251,252,8->12
